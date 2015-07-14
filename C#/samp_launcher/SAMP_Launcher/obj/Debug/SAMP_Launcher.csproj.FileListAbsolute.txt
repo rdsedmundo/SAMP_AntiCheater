@@ -1,0 +1,38 @@
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe.config
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.pdb
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.Properties.Resources.resources
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csproj.GenerateResource.Cache
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.exe
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.pdb
+c:\users\rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.AntiCheater.resources
+C:\Users\Rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\BlackMagic.dll
+C:\Users\Rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\fasmdll_managed.dll
+C:\Users\Rogerio\documents\visual studio 2012\Projects\SAMP_Launcher\SAMP_Launcher\bin\Debug\RoMFramework.dll
+G:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe.config
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.exe
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.pdb
+G:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe
+G:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.pdb
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csprojResolveAssemblyReference.cache
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.AntiCheater.resources
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.Properties.Resources.resources
+G:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csproj.GenerateResource.Cache
+F:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe.config
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.exe
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.pdb
+F:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe
+F:\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.pdb
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csprojResolveAssemblyReference.cache
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.AntiCheater.resources
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.Properties.Resources.resources
+F:\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csproj.GenerateResource.Cache
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe.config
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.exe
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.pdb
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.exe
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\bin\Debug\SAMP_Launcher.pdb
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.AntiCheater.resources
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.Properties.Resources.resources
+F:\AntiCheater - SA-MP\C#\SAMP_Launcher\SAMP_Launcher\obj\Debug\SAMP_Launcher.csproj.GenerateResource.Cache

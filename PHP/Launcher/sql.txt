@@ -1,0 +1,7 @@
+CREATE TABLE `launcher` (
+  `id` int(15) NOT NULL auto_increment,
+  `nome` varchar(255) NOT NULL,
+  `def` varchar(255) NOT NULL,
+  `data` varchar(255) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1;
